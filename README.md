@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamed adel
 - 👀 I’m web developer
-- 🌱 I’m currently learning html
+- 🌱 I’m currently using angular.js
 - 💞️ I’m looking to collaborate on Web design
 - 📫 How to reach me mohamedadel22558890@gmail.com
 
